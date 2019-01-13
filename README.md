@@ -27,6 +27,7 @@ handle of DD's is EF aka Evolution False which is an older name.
 The following tips and resources should help crush his bones.
 
 [====================================================================================]
+
                                      -=[ TLDR; ]=-
 
 Darth Dawkins is a dishonest interlocutor. He deserve near zero charitably.  
@@ -47,6 +48,7 @@ they will often contradict his position
 
 
 [====================================================================================]
+
                      -=[ Main points to effectively DE-stroy DD ]=-
 
 
