@@ -1,13 +1,6 @@
 Version 1.3 12/14/18
 
-______     _           _   _              ____________ 
-|  _  \   | |         | | (_)             |  _  \  _  \
-| | | |___| |__   __ _| |_ _ _ __   __ _  | | | | | | |
-| | | / _ \ '_ \ / _` | __| | '_ \ / _` | | | | | | | |
-| |/ /  __/ |_) | (_| | |_| | | | | (_| | | |/ /| |/ / 
-|___/ \___|_.__/ \__,_|\__|_|_| |_|\__, | |___/ |___/  
-                                    __/ |              
-                                   |___/               
+DE-bating DD         
                                                                            
                                                              (-An executive summary-)
 
@@ -189,3 +182,5 @@ https://www.youtube.com/channel/UCpC_OnIpUVCUhwmVcz1VaGg
                            x x x x x x x x x x x x x x x x
                                  -=[ Edit By:Jay ]=-
               -=[ If you dont like it suckit. Information is open to all]=-
+
+Old repository https://pastebin.com/NHGLCW7h
