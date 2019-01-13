@@ -4,7 +4,7 @@ DE-bating DD
                                                                            
                                                              (-An executive summary-)
 
-[====================================================================================]
+
 
     0x01 Introduction
 	0x02 Main points to effectively DE-stroy DD                           
@@ -13,8 +13,7 @@ DE-bating DD
     0x05 Definitions                                   
     0x06 How to know if he is getting upset                                    
     0x07 Resources     
-    
-[====================================================================================]             
+        
 
                                  -=[ Introduction ]=-
                        [ Author: Those who are tired of his games ]
@@ -26,7 +25,7 @@ handle of DD's is EF aka Evolution False which is an older name.
 
 The following tips and resources should help crush his bones.
 
-[====================================================================================]
+
 
                                      -=[ TLDR; ]=-
 
@@ -47,7 +46,7 @@ they will often contradict his position
 6. Don't allow him to interrupt you
 
 
-[====================================================================================]
+
 
                      -=[ Main points to effectively DE-stroy DD ]=-
 
@@ -69,7 +68,7 @@ they will often contradict his position
 6. Don't allow him to interrupt you
 
 
-[====================================================================================]
+
 
                          -=[ DE-flating DD DE-bate tactics ]=-
 
@@ -98,7 +97,7 @@ Don't be afraid to ask him how such problems aren't solved by his worldview.
 
 WIP
 
-[====================================================================================]
+
 
                                  -=[ Misc tips and advice]=-
 
@@ -125,7 +124,7 @@ worldview. DD claims his worldview allows for logic and reasoning - ask him how 
 would defeat the argument if it was given by a fellow Christian (as it happens, many 
 of the arguments against his worldview come from Christians).
 
-[====================================================================================]
+
 
                                  -=[ Definitions ]=-
 
@@ -140,7 +139,8 @@ interpreting a speaker's statements to be rational and, in the case of any argum
 considering its best, strongest possible interpretation.
 Link1:https://en.wikipedia.org/wiki/Principle_of_charity
 
-[====================================================================================]
+
+
                         -=[ How to know if he is getting upset ]=-
 
 1."DON'T OVER TALK ME"
@@ -157,9 +157,10 @@ Link1:https://en.wikipedia.org/wiki/Principle_of_charity
 
 7."YOUR JUST A TROLL"
 
-[====================================================================================]
+
 
                                  -=[ Resources ]=-
+				 
 Darwins Greatest Hits: A youtube channel wiht recordings of him.
 https://www.youtube.com/channel/UCpC_OnIpUVCUhwmVcz1VaGg
 
