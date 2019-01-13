@@ -1,19 +1,18 @@
 Version 1.3 12/14/18
 
-DE-bating DD         
-                                                                           
-                                                             (-An executive summary-)
+#DE-bating DD         
 
 
 
     0x01 Introduction
-	0x02 Main points to effectively DE-stroy DD                           
+    0x02 Main points to effectively DE-stroy DD                           
     0x03 DE-flating DD DE-bate tactics                   
     0x04 Misc tips and advice                                  
     0x05 Definitions                                   
     0x06 How to know if he is getting upset                                    
     0x07 Resources     
         
+.
 
                                  -=[ Introduction ]=-
                        [ Author: Those who are tired of his games ]
